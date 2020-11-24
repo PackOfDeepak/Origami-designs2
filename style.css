@@ -1,0 +1,18 @@
+body {
+    background-color: springgreen;
+}
+#about {
+    position: absolute;
+    top:20px;
+    left: 380px;
+
+}
+#follow {
+    position: absolute;
+    top:20px;
+    left: 500px;
+
+}
+#header {
+    background-color: steelblue;
+}
